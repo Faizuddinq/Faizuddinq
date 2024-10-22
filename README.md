@@ -33,7 +33,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> working remotely.
+I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> working remotely.
 
 <details>
 <summary><b>React.js Intern at VictoRizz</b></summary>
@@ -115,8 +115,10 @@ I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WU
 ### :fire: My Stats :
 
 <p align="center">
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact" alt="faizuddinq" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/><br>
-<img src="https://stats.quine.sh/Faizuddinq/github?theme=dark" width="350">
+<img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350">
 <img src="https://stats.quine.sh/Faizuddinq/dependencies?theme=dark" width="350"><br>
 <img src="https://stats.quine.sh/Faizuddinq/topics-over-time?theme=dark" width="350">
 <img src="https://stats.quine.sh/Faizuddinq/languages-over-time?theme=dark" width="350"><br>
@@ -126,6 +128,4 @@ I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WU
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact" alt="faizuddinq" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizuddinq&show_icons=true&locale=en" alt="faizuddinq" /></p>
