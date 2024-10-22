@@ -11,9 +11,9 @@
   <a href="https://github.com/Faizuddinq">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://shivankkapur.hashnode.dev/">
+<!--   <a href="https://Faizuddinq.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
+  </a> -->
   
   <a href="mailto:faizqureshi6126@gmail.com">
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100px" height="28px"/>
@@ -116,7 +116,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <p align="center">
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact" alt="faizuddinq" /></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact" alt="faizuddinq" />
 <img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/><br>
 <img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350">
 <img src="https://stats.quine.sh/Faizuddinq/dependencies?theme=dark" width="350"><br>
