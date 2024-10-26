@@ -115,7 +115,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-<p align="center">
+<div align="center">
   
 <table>
   <tr>
@@ -131,7 +131,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </tr>
 </table>
 
-</p>
+</div>
 
 
 ---
