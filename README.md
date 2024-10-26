@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" align="center" style="width: 100%" />
-</div> 
-</p>
+  ![Coding Typing](https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif)
+</div>
+<!-- </p> -->
 <br>
 
 <div id="badges" align="center">
