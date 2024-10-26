@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://tenor.com/en-GB/view/coding-typing-pc-laptop-power-gif-21599707.gif" align="center" style="width: 100%" />
+<img src="coding-typing.gif" align="center" style="width: 100%" />
 </div> 
 </p>
 <br>
