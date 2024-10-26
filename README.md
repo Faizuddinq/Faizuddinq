@@ -127,7 +127,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <td><img src="https://stats.quine.sh/Faizuddinq/languages-over-time?theme=dark" width="350" height="250"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://stats.quine.sh/Faizuddinq/dependencies?theme=dark" width="350" height="250"/></td>
+    <td colspan="2"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact&theme=dark" alt="faizuddinq" /></td>
   </tr>
 </table>
 
