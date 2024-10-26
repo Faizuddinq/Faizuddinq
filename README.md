@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./coding-typing.gif" align="center" style="width: 50%" />
+
 </div> 
 </p>
 <br>
@@ -35,6 +35,7 @@
 
 I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> working remotely.
 
+<img align="right" src="./coding-typing.gif" align="center" style="width: 50%" />
 <details>
 <summary><b>React.js Intern at VictoRizz</b></summary>
   
