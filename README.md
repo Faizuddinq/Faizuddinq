@@ -31,11 +31,11 @@
 </h1>
 
 
+<img align="right" src="./coding-typing.gif" align="center" style="width: 50%" />
 ### :woman_technologist: About Me :
 
 I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> working remotely.
 
-<img align="right" src="./coding-typing.gif" align="center" style="width: 50%" />
 <details>
 <summary><b>React.js Intern at VictoRizz</b></summary>
   
