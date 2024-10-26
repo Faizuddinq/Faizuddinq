@@ -112,7 +112,17 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 
 <div align="center">
-  
+  <a href="https://github.com/Faizuddinq">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizuddinq&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizuddinq&theme=algolia" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizuddinq&theme=algolia&hide_border=true&stroke=0000"  />
+</a>
+<br>
+
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" height="250" width="350"/></td>
@@ -129,16 +139,6 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </table>
 
 </div>
-
-<a href="https://github.com/Faizuddinq">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizuddinq&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizuddinq&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizuddinq&theme=algolia&hide_border=true&stroke=0000"  />
-</a>
-<br>
-
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
 
 
 
