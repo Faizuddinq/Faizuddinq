@@ -115,7 +115,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="250" width="350"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" height="250" width="350"/></td>
     <td><img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350" height="250"/></td>
   </tr>
   <tr>
