@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./coding-typing.gif" align="center" style="width: 60%" />
+<img src="./coding-typing.gif" align="center" style="width: 50%" />
 </div> 
 </p>
 <br>
