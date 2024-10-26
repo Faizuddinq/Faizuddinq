@@ -32,7 +32,7 @@
 I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> working remotely.
 
 <details>
-<summary><b><h3>React.js Intern at VictoRizz</h3></b></summary>
+<h3><summary><b>React.js Intern at VictoRizz</b></summary></h3>
   
 - Achieved a 30% increase in user satisfaction as measured by positive user feedback and improved site performance by building the entire frontend from scratch and developing 40+ reusable components using React.js, JavaScript, and Tailwind CSS.
 - Reduced state management complexity by 40% by managing 25+ global states with Redux, which improved application maintainability and reduced prop drilling.
