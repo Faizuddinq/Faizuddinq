@@ -122,14 +122,14 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <td><img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350" height="250"/></td>
   </tr>
   <tr>
-    <td><!--<img src="https://stats.quine.sh/Faizuddinq/dependencies?theme=dark" width="350" height="250"/>--></td>
+    <td ><img src="https://stats.quine.sh/Faizuddinq/languages-over-time?theme=dark" width="700" height="250"/></td>
     <td><img src="https://stats.quine.sh/Faizuddinq/topics-over-time?theme=dark" width="350" height="250"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://stats.quine.sh/Faizuddinq/languages-over-time?theme=dark" width="700" height="250"/></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact&theme=dark" alt="faizuddinq" width="700" height="250"/></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact&theme=dark" alt="faizuddinq" width="700" height="250"/></td>
+    <td><!--<img src="https://stats.quine.sh/Faizuddinq/dependencies?theme=dark" width="350" height="250"/>--></td>
   </tr>
 </table>
 
