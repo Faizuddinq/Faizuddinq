@@ -25,12 +25,12 @@
 <br>
 
 <h1 align="center">
-<img align="right" src="./coding-typing.gif" align="center" style="width: 50%" />
+<img align="right" src="./coding-typing.gif" align="center" style="width: 30%" />
   Hi I am,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   Faiz Uddin!
 </h1>
----
+
 
 ### :woman_technologist: About Me :
 
