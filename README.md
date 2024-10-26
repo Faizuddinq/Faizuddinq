@@ -88,7 +88,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" title="Prisma" alt="Prisma" width="40" height="40" />&nbsp;
           
 
-  <h2>DevOps & Tools</h2>
+ <!--  <h2>DevOps & Tools</h2> -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="githubactions" alt="githubactions" width="40" height="40"/>&nbsp;         -->
