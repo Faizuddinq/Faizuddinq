@@ -30,7 +30,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   Faiz Uddin!
 </h1>
-
+---
 
 ### :woman_technologist: About Me :
 
