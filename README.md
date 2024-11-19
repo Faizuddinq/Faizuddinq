@@ -34,7 +34,7 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <details>
 <summary><h3><b>React.js Intern at VictoRizz</b></h3></summary>
   
-- Achieved a 30% increase in user satisfaction as measured by positive user feedback and improved site performance by building the entire frontend from scratch and developing 40+ reusable components using React.js, JavaScript, and Tailwind CSS.
+- Achieved a 30% increase in user satisfaction as measured by positive user feedback and improved site performance by building the entire frontend from scratch and developing 55+ reusable components using React.js, JavaScript, and Tailwind CSS.
 - Reduced state management complexity by 40% by managing 25+ global states with Redux, which improved application maintainability and reduced prop drilling.
 - Enhanced user engagement by 25% by optimizing website performance through API integrations and implementing a search and filter feature with 8 fields, allowing users to easily narrow down search results.
 - Improved form submission speed by 20% by utilizing react-hook-form and Zod for form validation, resulting in a more seamless user experience.
