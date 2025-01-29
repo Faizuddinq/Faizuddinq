@@ -34,14 +34,14 @@ I am a Frontend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <details>
 <summary><h3><b>React.js Intern at VictoRizz</b></h3></summary>
   
-• Built the platform’s frontend from scratch, taking it from concept to launch (0 to 1) by developing 55+
+- Built the platform’s frontend from scratch, taking it from concept to launch (0 to 1) by developing 55+
 reusable React components.
-• Simplified state management by 40% as a result of organizing 25+ global states in Redux, integrating RESTful
+- Simplified state management by 40% as a result of organizing 25+ global states in Redux, integrating RESTful
 APIs to streamline data flow, reduce prop drilling, enhance maintainability and scalability.
-• Improved user engagement by 25% with optimized performance, adding an 8-field search, filter, infinite
+- Improved user engagement by 25% with optimized performance, adding an 8-field search, filter, infinite
 scroll, and smooth loading UI.
-• Boosted web performance by 20% and cut re-renders using lazy loading, useCallback, and useMemo.
-• Enhanced form submission speed by 15% with react-hook-form and zod, leading to a smoother user
+- Boosted web performance by 20% and cut re-renders using lazy loading, useCallback, and useMemo.
+- Enhanced form submission speed by 15% with react-hook-form and zod, leading to a smoother user
 experience.
 </details>
 
