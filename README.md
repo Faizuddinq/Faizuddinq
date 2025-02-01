@@ -124,7 +124,7 @@ experience.
 </a>
 <br>
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+<!-- <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/> -->
 
 
 <table>
