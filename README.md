@@ -131,10 +131,6 @@ experience.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show_icons=true&theme=tokyonight" />
-      <br /><strong>GitHub Stats</strong>
-    </td>
-    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizuddinq&theme=tokyonight" />
       <br /><strong>Streak Stats</strong>
     </td>
@@ -149,12 +145,18 @@ experience.
       <br /><strong>GitHub Trophies</strong>
     </td>
     <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=Faizuddinq&color=blue" />
+      <br /><strong>Profile Views</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&theme=tokyonight" />
       <br /><strong>Contribution Graph</strong>
     </td>
-
   </tr>
 </table>
+
 
 
 </div>
