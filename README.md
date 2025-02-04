@@ -127,14 +127,8 @@ experience.
 
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" height="250" width="350"/></td>
-    <td><img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350" height="250"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://stats.quine.sh/Faizuddinq/topics-over-time?theme=dark" width="350" height="250"/></td>
-    <td><img src="https://stats.quine.sh/Faizuddinq/languages-over-time?theme=dark" width="350" height="250"/></td>
-  </tr>
+
+
   <tr align="center">
     <td colspan="2"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=faizuddinq&show_icons=true&locale=en&layout=compact&theme=dark" alt="faizuddinq" /></td>
     
