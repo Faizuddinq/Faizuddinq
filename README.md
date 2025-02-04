@@ -152,10 +152,7 @@ experience.
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizuddinq&theme=tokyonight" />
       <br /><strong>Contribution Graph</strong>
     </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" />
-      <br /><strong>Profile Views</strong>
-    </td>
+
   </tr>
 </table>
 
