@@ -124,7 +124,7 @@ experience.
 </a>
 <br>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Faizuddinq" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Faizuddinq" alt="GitHub Streak" />
 
 <table>
   <tr>
