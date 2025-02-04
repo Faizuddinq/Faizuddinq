@@ -119,7 +119,7 @@ experience.
 <table>
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Faizuddinq&theme=dark" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tawny-eight.vercel.app?user=Faizuddinq" alt="GitHub Streak" /></a>
       <br /><strong>Streak Stats</strong>
     </td>
     <td align="center">
