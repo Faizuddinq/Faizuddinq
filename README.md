@@ -120,11 +120,11 @@ experience.
 <!--    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizuddinq&theme=algolia"/>
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizuddinq&theme=algolia" />
    <img height="191em" src="https://github-readme-stats.vercel.app/api?username=Faizuddinq&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" /> -->
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Faizuddinq&theme=dark&hide_border=false)<br/>
+   <img height="191em" src="[https://github-readme-stats.vercel.app/api?username=Faizuddinq&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia](https://github-readme-streak-stats.herokuapp.com/?user=Faizuddinq&theme=dark&hide_border=false)" />
 </a>
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Faizuddinq" alt="GitHub Streak" />
+
 
 <table>
   <tr>
